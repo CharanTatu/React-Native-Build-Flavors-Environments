@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DAG Connect</string>
+    <string name="facebook_app_id">1778516553076401</string>
+    <string name="facebook_client_token">e2d31849cc60d797d1725f9b96f2f72e</string>
+    <string name="fb_login_protocol_scheme">fb1778516553076401</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBYo5s0uQPFgc8qafyO0Rzejpe78bi4ezw</string>
+    <!-- <string name="facebook_app_id">569002989611068</string>
+    <string name="facebook_client_token">680e6ef04aa5476b289503d9037da0c4</string>
+    <string name="fb_login_protocol_scheme">fb5569002989611068</string> -->
+</resources>
